@@ -23,8 +23,14 @@ La logique de choix est de garder celui qui a le moins de valeurs manquantes et 
 Dans cette question j'ai remplacé le notebook jupyter pour l'analyse exploratoire de données(EDA exploratory data analysis) par une application "EDA_app.py". Cet outil est plus rapide, plus efficace et facile à utilser.
 L'application est composé de 4 parties dans le Menu:
 * Home
+
 ![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/Home.jpg)
+
 * "Dédupliquer&Joindre" qui utilise le dataframe `df_patient` après la déduplication utilisant la fonction `detect_duplicates` , aussi fait la jointure entre les dataframes `df_patient` et `df_pcr`.
+
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/Dédupliquer.jpg)
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/joindre.jpg)
+
 * "Pandas Profile" méthode d'EDA qui utilise le résultat de dataframe après jointure et fait un rapport EDA complet.
 * "Sweetviz" autre méthode d'EDA qui utilise le résultat de dataframe après jointure et fait un rapport EDA complet.
 * Contact
