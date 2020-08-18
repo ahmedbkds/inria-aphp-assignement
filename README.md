@@ -40,7 +40,7 @@ L'application est composé de 4 parties dans le Menu:
 
 * "Sweetviz" autre méthode d'EDA qui utilise le résultat de dataframe après jointure et fait un rapport EDA complet.
 
-![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/sweetvis.jpg)
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/sweetviz.jpg)
 
 * Contact
 
