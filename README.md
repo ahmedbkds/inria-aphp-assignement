@@ -32,8 +32,20 @@ L'application est composé de 4 parties dans le Menu:
 ![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/joindre.jpg)
 
 * "Pandas Profile" méthode d'EDA qui utilise le résultat de dataframe après jointure et fait un rapport EDA complet.
+
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/pandasprofile1.jpg)
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/pandasprofile2.jpg)
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/states.jpg)
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/histogramme_age.jpg)
+
 * "Sweetviz" autre méthode d'EDA qui utilise le résultat de dataframe après jointure et fait un rapport EDA complet.
+
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/sweetvis.jpg)
+
 * Contact
+
+![alt text](https://github.com/ahmedbkds/response-inria-aphp-assignement/blob/master/images/Contact.jpg)
+
 
 ## Instructions
 
