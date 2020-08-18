@@ -1,5 +1,4 @@
-# response-inria-aphp-assignement
-# Réponse d'évaluation pour le poste Inria / AP-HP
+# Réponse évaluation pour le poste Inria / AP-HP
 
 Voici une réponse sur les Questions :
 
